@@ -1,0 +1,8 @@
+-cp src
+-cp ../../bumdum/lib
+-swf9 swf/ludum.swf
+-swf-header 950:600:30:FFFFFF
+-swf-lib obj\ludumResources.swf
+--flash-strict
+-main Main
+-swf-lib swf/_gfx.swf
